@@ -14,6 +14,7 @@ pip install langchain==0.1.11 gradio==5.23.2 transformers==4.38.2 bs4==0.0.2 req
 ```
 
 Have a cup of coffee, it will take 5 minutes.
+```cmdcmd
       )  (
      (   ) )
       ) ( (
@@ -23,5 +24,5 @@ Have a cup of coffee, it will take 5 minutes.
  '-./\/\/\/\/|
    '_________'
     '-------'
-
+```
 Now, your environment is ready to create Python files.
